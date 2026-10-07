@@ -237,4 +237,4 @@ This repository serves as the official landing page for GnuCash. The software is
 **Get the most recent version of GnuCash today!**
 
 ---
-**Last updated:** 2026-10-07 06:54:55 UTC
+**Last updated:** 2026-10-07 14:16:27 UTC
